@@ -74,7 +74,7 @@ otp.config = {
      */
 
     baseLayers: [
-        {
+        /*{
             name: 'Stamen Terrain',
             tileUrl: 'http://tile.stamen.com/terrain/{z}/{x}/{y}.png',
             attribution : 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
@@ -109,7 +109,7 @@ otp.config = {
             attribution : 'Map tiles by Carto/MapZen. Map data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
             maxZoom: 22,
             maxNativeZoom: 22
-        },
+        },*/
         {
             name: 'OSM Standard Tiles',
             tileUrl: 'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png',
