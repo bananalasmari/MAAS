@@ -127,8 +127,8 @@ otp.config = {
      * properties, when set, override that behavioir.
      */
      
-    // initLatLng : new L.LatLng(<lat>, <lng>),
-    // initZoom : 14,
+    initLatLng : new L.LatLng(24.46789, 39.60987),
+    initZoom : 14,
     // minZoom : 10,
     // maxZoom : 20,
     
